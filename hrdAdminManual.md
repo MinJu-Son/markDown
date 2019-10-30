@@ -2,16 +2,10 @@
 기업교육(HRD) 관리자 Manual
 ========================
 
-| 값 | 의미 | 기본값 |
-|---|:---:|---:|
-| `static` | 유형(기준) 없음 / 배치 불가능 | `static` |
-| `relative` | 요소 자신을 기준으로 배치 |  |
-| `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 |  |
-| `fixed` | 브라우저 창을 기준으로 배치 |  |
-
-값 | 의미 | 기본값
----|:---:|---:
-`static` | 유형(기준) 없음 / 배치 불가능 | `static`
-`relative` | 요소 **자신**을 기준으로 배치 |
-`absolute` | 위치 상 **_부모_(조상)요소**를 기준으로 배치 |
-`fixed` | **브라우저 창**을 기준으로 배치 |
+| 기능 | 관리자 링크 |
+|---|:---:|
+| HRD 스마트한 교육과정 관리 | https://newadmin.hunet.co.kr/HrdManagement/RecommendProcess |
+| 동영상 관리 | https://newadmin.hunet.co.kr/HrdManagement/VideoManage |
+| GNB(메뉴) 관리 | https://newadmin.hunet.co.kr/HrdManagement/VideoManage |
+| 추천 키워드 관리 | https://newadmin.hunet.co.kr/HrdManagement/SmartKeyword |
+| 이슈 & 트렌드 관리 | https://newadmin.hunet.co.kr/HrdManagement/TrendBoard |
